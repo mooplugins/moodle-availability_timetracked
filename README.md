@@ -1,6 +1,6 @@
 # Time tracked availability condition for Moodle
 
-Restrict access to an activity or section until a learner has spent enough **tracked time** in another activity — using totals from the companion [Time Tracker](https://moodle.org/plugins/) plugin (`local_timetracker`).
+Restrict access to an activity or section until a learner has spent enough **tracked time** in another activity — using totals from the companion [Time Tracker](https://github.com/mooplugins/moodle-local_timetracker) plugin (`local_timetracker`).
 
 ## Why this plugin?
 
@@ -17,7 +17,7 @@ Teachers often want soft gates such as: *“Spend at least 10 minutes in the rea
 ## Requirements
 
 - Moodle 4.5 or later (CI tested on 4.5, 5.0, and 5.2)
-- [`local_timetracker`](https://moodle.org/plugins/) **1.4.2** or later (`2026090805+`)
+- [`local_timetracker`](https://github.com/mooplugins/moodle-local_timetracker) **1.4.2** or later (`2026090805+`)
 
 ## Installation
 
