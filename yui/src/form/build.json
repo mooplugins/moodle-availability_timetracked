@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_timetracked-form",
+  "builds": {
+    "moodle-availability_timetracked-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
