@@ -18,18 +18,19 @@
  * Version metadata for availability_timetracked.
  *
  * @package    availability_timetracked
- * @copyright  2026 Mooplugins
+ * @author     BitKea Technologies LLP
+ * @copyright  2026 BitKea Technologies LLP
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'availability_timetracked';
-$plugin->version   = 2026090800;
+$plugin->version   = 2026091800;
 $plugin->requires  = 2024100700; // Moodle 4.5 or later.
 $plugin->supported = [405, 502]; // Moodle 4.5 through 5.2.
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->release   = '1.1.0';
+$plugin->release   = '1.1.1';
 $plugin->dependencies = [
-    'local_timetracker' => 2026090805,
+    'local_timetracker' => 2026091800,
 ];

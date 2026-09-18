@@ -18,7 +18,8 @@
  * Privacy Subsystem implementation for availability_timetracked.
  *
  * @package    availability_timetracked
- * @copyright  2026 Mooplugins
+ * @author     BitKea Technologies LLP
+ * @copyright  2026 BitKea Technologies LLP
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -28,11 +29,11 @@ namespace availability_timetracked\privacy;
  * Privacy Subsystem for availability_timetracked implementing null_provider.
  *
  * @package    availability_timetracked
- * @copyright  2026 Mooplugins
+ * @author     BitKea Technologies LLP
+ * @copyright  2026 BitKea Technologies LLP
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class provider implements \core_privacy\local\metadata\null_provider {
-
     /**
      * Get the language string identifier explaining why this plugin stores no data.
      *

@@ -18,7 +18,8 @@
  * Front-end class for the time tracked availability condition.
  *
  * @package    availability_timetracked
- * @copyright  2026 Mooplugins
+ * @author     BitKea Technologies LLP
+ * @copyright  2026 BitKea Technologies LLP
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -28,11 +29,11 @@ namespace availability_timetracked;
  * Front-end class.
  *
  * @package    availability_timetracked
- * @copyright  2026 Mooplugins
+ * @author     BitKea Technologies LLP
+ * @copyright  2026 BitKea Technologies LLP
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class frontend extends \core_availability\frontend {
-
     /**
      * Strings used by the JavaScript form.
      *
